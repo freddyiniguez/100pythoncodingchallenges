@@ -1,3 +1,6 @@
+# TITLE
+# Print the lenght of a string
+
 # DESCRIPTION
 # Write a Python program that prints the lenght of a string.
 
